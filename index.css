@@ -17,3 +17,17 @@
     font-size: 2rem;
     font-weight: 400;
 }
+
+.nav-item {
+    font-size: 1.5rem;
+}
+
+/* gallery */
+.bully-babe-card {
+    width: 18rem;
+    height: 32rem;
+}
+
+.bully-babe-card img {
+    height: 75%;
+}
